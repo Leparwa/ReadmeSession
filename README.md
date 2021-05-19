@@ -7,11 +7,12 @@ Im a  male of 5.7 feet weighing 60.3kgs and eye color of black.  I was born in b
 ## MY HOBBIES
 #### { demonstrating table creation in README}
 
-| *HOBBIE*  |   | *PROFICIENCY*| 
-| :------------ |:------------:| 
+|*HOBBIE*|*PROFICIENCY*| 
+|---------|------------|
 | playing chess | master level | 
-| riding        | beginner     |   
-| swimming      | intermediate |   
+| riding        | beginner     | 
+| swimming      | intermediate |
+
 
 ## OTHER HOBBIES
 * playing footbal
