@@ -5,7 +5,7 @@
 Im a  male of 5.7 feet weighing 60.3kgs and eye color of black.  I was born in baringo raised in Narok and currently living in Nairobi. 
  }
 ## MY HOBBIES
-#### { demonstrating table creation in README}
+#### { Demonstrating table creation in README}
 
 |*HOBBIE*|*PROFICIENCY*| 
 |---------|------------|
@@ -19,9 +19,9 @@ Im a  male of 5.7 feet weighing 60.3kgs and eye color of black.  I was born in b
 * reading books 
 * listening to podcast
 
-## my favorite meal
+## My favorite meal
 {meat and doughnut}
-## my contact details
+## My contact details
 { you can find me on twitter @kevin_leresi}
 ## Licence
 *Licensed under the [MIT LICENSE](LICENSE.txt)*
