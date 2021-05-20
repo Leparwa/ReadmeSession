@@ -1,0 +1,77 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.logo h3{
+float: left;
+margin-top: 2px;
+margin-left: 10px;
+}
+.container{
+    background-color: rgb(179, 138, 111); 
+    position: absolute;
+    height: 260px;
+    width: 100vw;
+    
+
+ 
+}
+.dogImage{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 260px;
+    /* background-image: url("./projectAssets/headerImage.jpg"); */
+    position: relative;
+    background-size: cover;
+}
+
+ul{
+    list-style-type: none;
+    margin-right: 10px;
+    padding: opx;
+    display: inline;
+    overflow: hidden;
+
+}
+li{
+    float: right;
+}
+li a{
+    display: block;
+    text-decoration: none;
+    padding: 15px 12px;
+    margin-right: 20px;
+
+}
+.thirdDiv{
+    height: 400px;
+    width: 100vw;
+    background-color: black; 
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    justify-content: center;
+}
+footer{
+    height: 350px;
+    width: 100%;
+    background-color: black;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+}
+.secondDiv{
+    height: 400px;
+    width: 100vw; 
+
+    display: flex;
+    justify-content: center;
+}
+
+
+.wrapperDiv p h2 i{
+    color: white;
+}
