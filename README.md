@@ -1,26 +1,24 @@
 # {LERESI KEVIN LEPARWA}
-#### {this readme gives a brief description about leresi}
+#### {this project is about my favorite pet}
 ## About Me
-{Leresi Kevin Leparwa is a student at Moringa school currently pursuing a course leading to proficiency in software development. 
-Im a  male of 5.7 feet weighing 60.3kgs and eye color of black.  I was born in baringo raised in Narok and currently living in Nairobi. 
+{ the project ideally is a landing page of my favorite pet. it is the cat 
  }
-## MY HOBBIES
-#### { Demonstrating table creation in README}
+## MY FAVORITE PET
+#### { here is the list of my favorite pets}
 
-|*HOBBIE*|*PROFICIENCY*| 
+|*NO*|*PROFICIENCY*| 
 |---------|------------|
-| playing chess | master level | 
-| riding        | beginner     | 
-| swimming      | intermediate |
+| #1 | Cat | 
+| #2 | Dog | 
+| #3 | Cow |
 
 
-## OTHER HOBBIES
-* playing footbal
-* reading books 
-* listening to podcast
+## TECHNOLOGIES USED
+* HTML
+* CSS
+* fontAwesome
 
-## My favorite meal
-{meat and doughnut}
+
 ## My contact details
 { you can find me on twitter @kevin_leresi}
 ## Licence
