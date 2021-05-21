@@ -1,8 +1,8 @@
-# {LERESI KEVIN LEPARWA}
+## **{MY FAVORITE PET}**
 #### {this project is about my favorite pet}
-## About Me
-{ the project ideally is a landing page of my favorite pet. it is the cat 
- }
+## **Description**
+#### This website was created to help injured domestic animals & pets to get the necessary help and medication they need as well as get new home for the homeless
+ >The table below gives shows the different animals.
 ## MY FAVORITE PET
 #### { here is the list of my favorite pets}
 
@@ -12,11 +12,12 @@
 | #2 | Dog | 
 
 
-## TECHNOLOGIES USED
-* HTML
-* CSS
-* fontAwesome
-
+## **contributors**
+#### The website project was fully done by: **Kevin Leresi Leparwa**
+## **Setup/Installation**
+#### No installation required.You only need access with a connected device to the internet with working browser(Chrome browser is advisable)
+##  **known Bugs**
+#### There are no Bugs on this file but should you experience any difficulties in accessing or getting the information you need, or come across anything kindly share with me via my
 
 ## My contact details
 { you can find me on twitter @kevin_leresi}
