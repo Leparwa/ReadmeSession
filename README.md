@@ -6,11 +6,10 @@
 ## MY FAVORITE PET
 #### { here is the list of my favorite pets}
 
-|*NO*|*PROFICIENCY*| 
+|*NO*|*PET*| 
 |---------|------------|
 | #1 | Cat | 
 | #2 | Dog | 
-| #3 | Cow |
 
 
 ## TECHNOLOGIES USED
